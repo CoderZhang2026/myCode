@@ -1,0 +1,7 @@
+代码对比
+code --diff 1_bj_daima.c 1_bj_yuanma.c
+bcompare 1_bj_daima.c 1_bj_yuanma.c   
+
+
+vimdiff 1_bj_daima.c 1_bj_yuanma.c   
+

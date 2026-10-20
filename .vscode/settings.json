@@ -1,0 +1,8 @@
+{
+  "editor.tokenColorCustomizations": {
+    "comments": {
+      "foreground": "#22C55E",      // 亮绿色
+      //"fontStyle": "italic"         // 斜体，不想要就删掉这行
+    }
+  }
+}
